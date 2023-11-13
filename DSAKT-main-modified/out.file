@@ -1,0 +1,14 @@
+nohup: ignoring input
+当前执行的数据集：assist09
+train_loader:torch.Size([317, 3, 128, 100])
+/opt/conda/conda-bld/pytorch_1587428270644/work/aten/src/ATen/native/BinaryOps.cpp:81: UserWarning: Integer division of tensors using div or / is deprecated, and in a future release div will perform true division as in Python 3. Use true_divide or floor_divide (// in Python) instead.
+val_auc: 0.500 mse: 0.463 acc: 0.000
+train_loader:torch.Size([317, 3, 128, 100])
+val_auc: 0.519 mse: 0.436 acc: 0.000
+train_loader:torch.Size([317, 3, 128, 100])
+val_auc: 0.546 mse: 0.441 acc: 0.000
+train_loader:torch.Size([317, 3, 128, 100])
+val_auc: 0.581 mse: 0.418 acc: 0.000
+train_loader:torch.Size([317, 3, 128, 100])
+val_auc: 0.622 mse: 0.416 acc: 0.000
+train_loader:torch.Size([317, 3, 128, 100])

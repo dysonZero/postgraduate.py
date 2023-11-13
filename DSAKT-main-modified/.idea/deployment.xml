@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="mylinux" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="mylinux">
+        <serverdata>
+          <mappings>
+            <mapping deploy="DSAKT-main" local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="Forget_DSAKT" local="$PROJECT_DIR$/../Forget_DSAKT" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/result" />
+            <excludedPath local="true" path="$PROJECT_DIR$/device.py" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
